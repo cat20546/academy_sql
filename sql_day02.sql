@@ -71,7 +71,7 @@ EMPNO,  ENAME,  SAL
 7777	J%JONES	500
 */
 
--- BETWEEN 500 AND 1200 과 같은 결과를 내는 비교연산자
+-- BETWEEN 500 AND 1200 과 같은 결과를 내는 비교연산자.
 SELECT e.EMPNO
      , e.ENAME
      , e.SAL
