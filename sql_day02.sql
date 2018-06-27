@@ -736,7 +736,7 @@ SELECT e.EMPNO
 
 
 
-
+commit;
 
 
 
